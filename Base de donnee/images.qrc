@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="ICONS">
+    <file>ICO/add_user_male_96px.png</file>
+    <file>ICO/close_window_96px.png</file>
+    <file>ICO/error_96px.png</file>
+    <file>ICO/facebook_96px.png</file>
+    <file>ICO/fingerprint_100px.png</file>
+    <file>ICO/high_priority_96px.png</file>
+    <file>ICO/home_96px.png</file>
+    <file>ICO/office_365_security_&amp;_compliance_96px.png</file>
+    <file>ICO/ok_96px.png</file>
+    <file>ICO/password_96px.png</file>
+    <file>ICO/phone_96px.png</file>
+    <file>ICO/synchronize_96px.png</file>
+    <file>ICO/twitter_96px.png</file>
+    <file>ICO/whatsapp_96px.png</file>
+  </qresource>
+</RCC>
